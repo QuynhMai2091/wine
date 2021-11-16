@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://goviva.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://goviva.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://goviva.vn/collections/catena-zapata.atom"/>
+  <title>VIVA House of Wine</title>
+  <updated>2021-03-12T14:43:30+07:00</updated>
+  <author>
+    <name>VIVA House of Wine</name>
+  </author>
+  <entry>
+    <id>https://goviva.vn/products/6572991578294</id>
+    <published>2021-03-12T14:43:30+07:00</published>
+    <updated>2021-03-12T14:43:30+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/catena-zapata-adrianna-vineyard-white-bones-chardonnay"/>
+    <title>Catena Zapata - Adrianna Vineyard White Bones Chardonnay</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Catena Zapata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/CatenaZapata-AdriannaVineyardWhiteBonesChardonnay.png?v=1615535008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Catena Zapata<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Argentina</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6572991578294</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6570232217782</id>
+    <published>2021-03-11T15:41:45+07:00</published>
+    <updated>2021-03-11T15:41:45+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/catena-zapata-chardonnay"/>
+    <title>Catena Zapata Chardonnay</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Catena Zapata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/CatenaZapataChardonnay.png?v=1615452106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Catena Zapata<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            1100000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Argentina</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6570232217782</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1100000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6570228023478</id>
+    <published>2021-03-11T15:38:57+07:00</published>
+    <updated>2021-03-11T15:38:57+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/catena-zapata-adrianna-vineyard-river-stones-malbec"/>
+    <title>Catena Zapata - Adrianna Vineyard River Stones Malbec</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Catena Zapata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/CatenaZapata-AdriannaVineyardRiverStonesMalbec.png?v=1615451937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Catena Zapata<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Argentina</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6570228023478</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6570227073206</id>
+    <published>2021-03-11T15:37:13+07:00</published>
+    <updated>2021-03-11T15:37:13+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/catena-zapata-nicasia-vineyard"/>
+    <title>Catena Zapata Nicasia Vineyard</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Catena Zapata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/CatenaZapataNicasiaVineyard.png?v=1615451834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Catena Zapata<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Argentina</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6570227073206</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6566547292342</id>
+    <published>2021-03-10T13:47:23+07:00</published>
+    <updated>2021-03-10T13:47:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/catena-zapata-adrianna-vineyard-white-stones"/>
+    <title>Catena Zapata - Adrianna Vineyard - White Stones</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Catena Zapata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/CatenaZapata-AdriannaVineyard-WhiteStones.png?v=1615358844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Catena Zapata<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Argentina</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6566547292342</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6106567311542</id>
+    <published>2020-11-26T18:08:21+07:00</published>
+    <updated>2020-11-26T18:08:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/catena-zapata-nicolas-catena-zapata-cabernet-sauvignon-1-5l"/>
+    <title>Catena Zapata - Nicolas Catena Zapata - Cabernet Sauvignon</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Catena Zapata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/CatenaZapata-NicolasCatenaZapata-CabernetSauvignon.png?v=1606390421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Catena Zapata<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Argentina</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6106567311542</id>
+      <title>750ml</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://goviva.vn/products/6106567311542</id>
+      <title>1.5L</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4688627793995</id>
+    <published>2020-11-09T16:55:56+07:00</published>
+    <updated>2020-11-09T16:55:56+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/catena-zapata-catena-alta-malbec"/>
+    <title>Catena Zapata - Catena Alta Malbec</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Catena Zapata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/CatenaZapata-CatenaAltaMalbec.png?v=1603873451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Catena Zapata<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Argentina</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4688627793995</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4688626647115</id>
+    <published>2020-11-09T16:53:30+07:00</published>
+    <updated>2020-11-09T16:53:30+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/catena-zapata-adrianna-vineyard-fortuna-terrae-malbec"/>
+    <title>Catena Zapata - Adrianna Vineyard - Fortuna Terrae Malbec</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Catena Zapata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/CatenaZapata-AdriannaVineyard-FortunaTerraeMalbec.png?v=1603872454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Catena Zapata<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Argentina</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4688626647115</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4663480975435</id>
+    <published>2020-09-09T13:38:45+07:00</published>
+    <updated>2020-09-09T13:38:45+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/catena-malbec"/>
+    <title>Catena - Malbec</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Catena Zapata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/catena-malbec-01.png?v=1599633643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Catena Zapata<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            1100000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table data-mce-fragment="1" width="100%">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1"></tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 20%;" data-mce-style="width: 20.6897%;">Varietal</td>
+<td data-mce-fragment="1" style="width: 31%;" data-mce-style="width: 31.7604%;">Malbec<br>
+</td>
+<td data-mce-fragment="1" style="width: 22.7296%;" data-mce-style="width: 28.1307%;">Size</td>
+<td data-mce-fragment="1" style="width: 18.2704%;" data-mce-style="width: 14.3376%;">750 ml</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 20%;" data-mce-style="width: 20.6897%;">Region</td>
+<td data-mce-fragment="1" style="width: 31%;" data-mce-style="width: 31.7604%;">Mendoza<br>
+</td>
+<td data-mce-fragment="1" style="width: 22.7296%;" data-mce-style="width: 28.1307%;">Vintage(s)<br data-mce-fragment="1">
+</td>
+<td data-mce-fragment="1" style="width: 18.2704%;" data-mce-style="width: 14.3376%;"></td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 20%;" data-mce-style="width: 20.6897%;">Country</td>
+<td data-mce-fragment="1" style="width: 31%;" data-mce-style="width: 31.7604%;">Argentina<br>
+</td>
+<td data-mce-fragment="1" style="width: 22.7296%;" data-mce-style="width: 28.1307%;">Alcohol Volume</td>
+<td data-mce-fragment="1" style="width: 18.2704%;" data-mce-style="width: 14.3376%;">13.5%</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 20%;" data-mce-style="width: 20.6897%;">Brand Name</td>
+<td data-mce-fragment="1" style="width: 31%;" data-mce-style="width: 31.7604%;">Catena Zapata<br>
+</td>
+<td data-mce-fragment="1" style="width: 22.7296%;" data-mce-style="width: 28.1307%;">Food Paring</td>
+<td data-mce-fragment="1" style="width: 18.2704%;" data-mce-style="width: 14.3376%;">Red meat, game meat<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 20%;" data-mce-style="width: 20.6897%;">Closure</td>
+<td data-mce-fragment="1" style="width: 31%;" data-mce-style="width: 31.7604%;">Cork<br>
+</td>
+<td data-mce-fragment="1" style="width: 22.7296%;" data-mce-style="width: 28.1307%;">Wine Style</td>
+<td data-mce-fragment="1" style="width: 18.2704%;" data-mce-style="width: 14.3376%;">Dry</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 20%;" data-mce-style="width: 20.6897%;">Wine Body</td>
+<td data-mce-fragment="1" style="width: 31%;" data-mce-style="width: 31.7604%;">Full Bodied</td>
+<td data-mce-fragment="1" style="width: 22.7296%;" data-mce-style="width: 28.1307%;"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Argentina</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4663480975435</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1100000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4663480680523</id>
+    <published>2020-09-09T13:35:18+07:00</published>
+    <updated>2020-09-09T13:35:18+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/catena-cabernet-sauvignon"/>
+    <title>Catena - Cabernet Sauvignon</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Catena Zapata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/catena-cabernet-sauvignon-01.png?v=1599633337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Catena Zapata<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            1100000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1"></tr>
+<tr data-mce-fragment="1">
+<td style="width: 20%;" data-mce-fragment="1" data-mce-style="width: 20.6897%;">Varietal</td>
+<td style="width: 28.4592%;" data-mce-fragment="1" data-mce-style="width: 31.7604%;">90% Cabernet Sauvignon, 7% Cabernet Franc, 3% Petit Verdot<br>
+</td>
+<td style="width: 25.5408%;" data-mce-fragment="1" data-mce-style="width: 28.1307%;">Size</td>
+<td style="width: 18%;" data-mce-fragment="1" data-mce-style="width: 14.3376%;">750 ml</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20%;" data-mce-fragment="1" data-mce-style="width: 20.6897%;">Region</td>
+<td style="width: 28.4592%;" data-mce-fragment="1" data-mce-style="width: 31.7604%;">Mendoza<br>
+</td>
+<td style="width: 25.5408%;" data-mce-fragment="1" data-mce-style="width: 28.1307%;">Vintage(s)<br data-mce-fragment="1">
+</td>
+<td style="width: 18%;" data-mce-fragment="1" data-mce-style="width: 14.3376%;"></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20%;" data-mce-fragment="1" data-mce-style="width: 20.6897%;">Country</td>
+<td style="width: 28.4592%;" data-mce-fragment="1" data-mce-style="width: 31.7604%;">Argentina<br>
+</td>
+<td style="width: 25.5408%;" data-mce-fragment="1" data-mce-style="width: 28.1307%;">Alcohol Volume</td>
+<td style="width: 18%;" data-mce-fragment="1" data-mce-style="width: 14.3376%;">13%</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20%;" data-mce-fragment="1" data-mce-style="width: 20.6897%;">Brand Name</td>
+<td style="width: 28.4592%;" data-mce-fragment="1" data-mce-style="width: 31.7604%;">Catena Zapata<br>
+</td>
+<td style="width: 25.5408%;" data-mce-fragment="1" data-mce-style="width: 28.1307%;">Food Paring</td>
+<td style="width: 18%;" data-mce-fragment="1" data-mce-style="width: 14.3376%;">Red meat, game meat<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20%;" data-mce-fragment="1" data-mce-style="width: 20.6897%;">Closure</td>
+<td style="width: 28.4592%;" data-mce-fragment="1" data-mce-style="width: 31.7604%;">Cork<br>
+</td>
+<td style="width: 25.5408%;" data-mce-fragment="1" data-mce-style="width: 28.1307%;">Wine Style</td>
+<td style="width: 18%;" data-mce-fragment="1" data-mce-style="width: 14.3376%;">Dry</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20%;" data-mce-fragment="1" data-mce-style="width: 20.6897%;">Wine Body</td>
+<td style="width: 28.4592%;" data-mce-fragment="1" data-mce-style="width: 31.7604%;">Full Bodied</td>
+<td style="width: 25.5408%;" data-mce-fragment="1" data-mce-style="width: 28.1307%;"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Argentina</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4663480680523</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1100000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4590456045643</id>
+    <published>2020-06-14T13:00:57+07:00</published>
+    <updated>2020-06-14T13:00:57+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/catena-zapata-malbec-argentino"/>
+    <title>Catena Zapata - Malbec Argentino</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Catena Zapata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/catena-zapata-malbec-argentino-2.png?v=1594371280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Catena Zapata<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721"> Saturated dark violet color with ruby reflections.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" alt=""> Elegant touches of cassis, blueberries and violets, along with a strong suggestion of soil tones.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt=""> Delightful combination of density and sweetness, with gripping, lightly saline flavors of mocha, dark berries, spice, and minerals; a palate-staining finish dominated by sweet black and blue fruits. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Argentina</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4590456045643</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

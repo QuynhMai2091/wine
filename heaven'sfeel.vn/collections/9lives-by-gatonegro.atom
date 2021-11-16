@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://goviva.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://goviva.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://goviva.vn/collections/9lives-by-gatonegro.atom"/>
+  <title>VIVA House of Wine</title>
+  <updated>2020-08-10T08:42:00+07:00</updated>
+  <author>
+    <name>VIVA House of Wine</name>
+  </author>
+  <entry>
+    <id>https://goviva.vn/products/4642908733515</id>
+    <published>2020-08-10T08:42:00+07:00</published>
+    <updated>2020-08-10T08:42:00+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/9lives-reserve-sauvignon-blanc"/>
+    <title>9LIVES Reserve Sauvignon Blanc</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>9LIVES by GatoNegro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/9lives-sauvignon-blanc-01.png?v=1597023746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>9LIVES by GatoNegro<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            490000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823">Greenish-yellow color</p>
+<p data-mce-fragment="1" style="text-align: left;"><span><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-selected="1"><meta charset="UTF-8">Medium Bodied</span></p>
+<p data-mce-fragment="1" style="text-align: left;"><img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823"><span data-mce-fragment="1"> Intense and fresh aromas of citric notes and grapefruits</span></p>
+<p data-mce-fragment="1" style="text-align: left;"><span data-mce-fragment="1"> <img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823">Smooth on the palate, but with a balanced, refreshing acidity.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chile</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4642908733515</id>
+      <title>Default Title</title>
+      <s:price currency="VND">490000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4591489744971</id>
+    <published>2020-06-11T09:51:05+07:00</published>
+    <updated>2020-06-11T09:51:05+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/9lives-vina-san-pedro"/>
+    <title>9LIVES Reserve Cabernet Sauvignon</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>9LIVES by GatoNegro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/output-onlinepngtools-5.png?v=1634663956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>9LIVES by GatoNegro<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            490000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-fragment="1"><span data-mce-fragment="1"> Features aromatic notes of<span class="fontstyle0" data-mce-fragment="1"> black and red fruits, combined exquisitely with tobacco and vanilla, along with spicy notes from the wood</span></span></p>
+<p><span data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-selected="1"><meta charset="UTF-8">
+<span class="fontstyle0" data-mce-fragment="1">Silky tannins offer a good structure</span> in a palatable ruby red color.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chile</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4591489744971</id>
+      <title>Default Title</title>
+      <s:price currency="VND">490000</s:price>
+      <s:sku>7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

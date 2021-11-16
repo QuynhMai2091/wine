@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://goviva.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://goviva.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://goviva.vn/collections/famille-jm-cazes.atom"/>
+  <title>VIVA House of Wine</title>
+  <updated>2020-11-09T16:58:17+07:00</updated>
+  <author>
+    <name>VIVA House of Wine</name>
+  </author>
+  <entry>
+    <id>https://goviva.vn/products/4688550395979</id>
+    <published>2020-11-09T16:58:17+07:00</published>
+    <updated>2020-11-09T16:58:17+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/famille-jm-cazes-pauillac-de-lynch-bages"/>
+    <title>Famille JM Cazes - Pauillac</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Famille JM Cazes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/FamilleJMCazes-Pauillac.png?v=1603858422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Famille JM Cazes<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4688550395979</id>
+      <title>2015</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku>50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://goviva.vn/products/4688550395979</id>
+      <title>2016</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku>75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4591519694923</id>
+    <published>2020-06-30T10:52:18+07:00</published>
+    <updated>2020-06-30T10:52:18+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/montagne-noire-famille-jm-cazes-1"/>
+    <title>Famille JM Cazes - Montagne Noire Syrah</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Famille JM Cazes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Montagne-Noir-Syrah.png?v=1591885580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Famille JM Cazes<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            490000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-fragment="1"><span data-mce-fragment="1">Cherry, acid remarked tannins, fresh, plum ,complete body</span><br><meta charset="UTF-8"></p>
+<p><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-fragment="1" data-mce-selected="1"> Constant characterized flavour with soft end</span></p>
+<p><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-fragment="1" data-mce-selected="1"> Fruity notes of plum and red berries with a hint of spices</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4591519694923</id>
+      <title>Default Title</title>
+      <s:price currency="VND">490000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4590661435467</id>
+    <published>2020-06-14T12:01:52+07:00</published>
+    <updated>2020-06-14T12:01:52+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/montagne-noire-famille-jm-cazes"/>
+    <title>Famille JM Cazes - Montagne Noire Chardonnay</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Famille JM Cazes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Montagne-Noire-Chardonnay-2016.png?v=1591885458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Famille JM Cazes<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            490000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1"> <span mce-data-marked="1" data-mce-fragment="1">Pale straw yellow</span></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803"> B<span data-mce-fragment="1">right notes of </span><span class="fontstyle0" data-mce-fragment="1">citrus, lemon and white fruits aromas.</span></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823"> A<span data-mce-fragment="1"> fresh and rich profile and a wonderful balance between sweetness and slightly tart notes.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4590661435467</id>
+      <title>Default Title</title>
+      <s:price currency="VND">490000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4590690828363</id>
+    <published>2020-06-11T21:34:40+07:00</published>
+    <updated>2020-06-11T21:34:40+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/saint-estephe-famille-jm-cazes"/>
+    <title>Famille JM Cazes - Saint Estèphe</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Famille JM Cazes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Famille-JM-Cazes-Saint-Estephe.png?v=1591886170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Famille JM Cazes<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            1560000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td width="98">
+<p> <strong>Varietal</strong></p>
+</td>
+<td width="173">
+<p>Cabernet Sauvignon, Merlot</p>
+</td>
+<td width="112">
+<p><strong>Size</strong></p>
+</td>
+<td width="142">
+<p>750 ml</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Region</strong></p>
+</td>
+<td width="173">
+<p>Bordeaux<br></p>
+</td>
+<td width="112">
+<p><strong>Vintage(s)</strong></p>
+</td>
+<td width="142"></td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Country</strong></p>
+</td>
+<td width="173">
+<p>France<br></p>
+</td>
+<td width="112">
+<p><strong>Alcohol Volume</strong></p>
+</td>
+<td width="142">
+<p>13.5%</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Brand Name</strong></p>
+</td>
+<td width="173">
+<p>Famille JM Cazes</p>
+</td>
+<td width="112">
+<p><strong>Food Paring</strong></p>
+</td>
+<td width="142">
+<p>Game meat, poultry<br></p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Closure</strong></p>
+</td>
+<td width="173">
+<p>Cork<br></p>
+</td>
+<td width="112">
+<p><strong>Wine Style</strong></p>
+</td>
+<td width="142">
+<p>Dry</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Wine Body</strong></p>
+</td>
+<td width="173">
+<p>Full-bodied<br></p>
+</td>
+<td width="112"></td>
+<td width="142"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><span>Owners of the Château Lynch-Bages since 1939, over the generations, the Cazes family has spread its viticultural wings and developed a model brand of tourism that is steeped in a tradition of hospitality, and the very finesse of grandeur wine-making. From the Ariège mountains to the vineyards of the Mèdoc and elsewhere, the story is about journeys of crafting exceptional wines and rediscovering historic wine estates.</span></p>
+<p><span>The Saint Estèphe features a powerful and balanced aromas of dark fruits, which is powerful yet balanced and characterised by a generous palate and beautifully ripe tannins, blended in intense flavors of black fruit and mocha.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4590690828363</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1560000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

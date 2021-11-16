@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://goviva.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://goviva.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://goviva.vn/collections/domaine-chanson.atom"/>
+  <title>VIVA House of Wine</title>
+  <updated>2021-03-09T13:46:56+07:00</updated>
+  <author>
+    <name>VIVA House of Wine</name>
+  </author>
+  <entry>
+    <id>https://goviva.vn/products/6564469506230</id>
+    <published>2021-03-09T13:46:56+07:00</published>
+    <updated>2021-03-09T13:46:56+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domaine-chanson-chassagne-montrachet-1er-cru-les-chenevottes"/>
+    <title>Domaine Chanson - Chassagne Montrachet 1er Cru &quot;Les Chenevottes&quot;</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DomaineChanson-ChassagneMontrachet1erCru_LesChenevottes.png?v=1615272416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6564469506230</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6564464558262</id>
+    <published>2021-03-09T13:44:44+07:00</published>
+    <updated>2021-03-09T13:44:44+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domaine-chanson-puligny-montrachet"/>
+    <title>Domaine Chanson - Puligny Montrachet</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DomaineChanson-PulignyMontrachet.png?v=1615272285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6564464558262</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6564460888246</id>
+    <published>2021-03-09T13:42:48+07:00</published>
+    <updated>2021-03-09T13:42:48+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domaine-chanson-chablis-1er-cru-montmains"/>
+    <title>Domaine Chanson - Chablis 1er Cru Montmains</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DomaineChanson-Chablis1erCruMontmains.png?v=1615272169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            2000000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6564460888246</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2000000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6564457021622</id>
+    <published>2021-03-09T13:40:52+07:00</published>
+    <updated>2021-03-09T13:40:52+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domaine-chanson-pouilly-fuisse"/>
+    <title>Domaine Chanson - Pouilly Fuissé</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DomaineChanson-PouillyFuisse.png?v=1615272052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            1310000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6564457021622</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1310000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6564453843126</id>
+    <published>2021-03-09T13:38:49+07:00</published>
+    <updated>2021-03-09T13:38:49+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domaine-chanson-chablis"/>
+    <title>Domaine Chanson - Chablis</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DomaineChanson-Chablis.png?v=1615271929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            1230000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6564453843126</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1230000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6562403942582</id>
+    <published>2021-03-08T23:43:02+07:00</published>
+    <updated>2021-03-08T23:43:02+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domain-chanson-beaune-1er-cru-teurons"/>
+    <title>Domain Chanson - Beaune 1er Cru ‘Teurons’</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DomainChanson-Beaune1erCru_Teurons.png?v=1615221782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6562403942582</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6562394669238</id>
+    <published>2021-03-08T23:32:19+07:00</published>
+    <updated>2021-03-08T23:32:19+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domaine-chanson-beaune-bastion-1er-cru"/>
+    <title>Domaine Chanson - Beaune Bastion 1er Cru</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DomaineChanson-BeauneBastion1erCru.png?v=1615221138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6562394669238</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6562388115638</id>
+    <published>2021-03-08T23:23:59+07:00</published>
+    <updated>2021-03-08T23:23:59+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domaine-chanson-beaujolais-villages"/>
+    <title>Domaine Chanson - Beaujolais Villages</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DomaineChanson-BeaujolaisVillages.png?v=1615220640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            760000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6562388115638</id>
+      <title>Default Title</title>
+      <s:price currency="VND">760000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6224842883254</id>
+    <published>2021-01-28T15:41:18+07:00</published>
+    <updated>2021-01-28T15:41:18+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domaine-chanson-nuits-saint-georges"/>
+    <title>Domaine Chanson - Nuits-Saint-Georges</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DomaineChanson-Nuits-Saint-Georges.png?v=1611823281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6224842883254</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6224802185398</id>
+    <published>2021-01-28T15:12:25+07:00</published>
+    <updated>2021-01-28T15:12:25+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domaine-chanson-santenay"/>
+    <title>Domaine Chanson Santenay</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DomaineChansonSantenay.png?v=1611821547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            1730000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6224802185398</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1730000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6220211912886</id>
+    <published>2021-01-26T16:49:26+07:00</published>
+    <updated>2021-01-26T16:49:26+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domaine-chanson-vire-clesse"/>
+    <title>Domaine Chanson - Viré-Clessé</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DomaineChanson-Vire-Clesse.png?v=1611654566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            860000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6220211912886</id>
+      <title>Default Title</title>
+      <s:price currency="VND">860000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4688561438795</id>
+    <published>2020-11-09T16:58:58+07:00</published>
+    <updated>2020-11-09T16:58:58+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domaine-chanson-corton-grand-cru"/>
+    <title>Domaine Chanson - Corton Grand Cru</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DomaineChanson-CortonGrandCru.png?v=1603860494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4688561438795</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4596315979851</id>
+    <published>2020-06-11T22:22:22+07:00</published>
+    <updated>2020-06-11T22:22:22+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/domaine-chanson-bourgogne-chardonnay"/>
+    <title>Domaine Chanson - Bourgogne Chardonnay</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Domaine-chanson-bourgogne-chardonnay.png?v=1591891362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            710000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td width="98">
+<p> <strong>Varietal</strong></p>
+</td>
+<td width="173">
+<p>Chardonnay<br></p>
+</td>
+<td width="112">
+<p><strong>Size</strong></p>
+</td>
+<td width="142">
+<p>750 ml</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Region</strong></p>
+</td>
+<td width="173">
+<p>Côtes de Beaune<br></p>
+</td>
+<td width="112">
+<p><strong>Vintage(s)</strong></p>
+</td>
+<td width="142"></td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Country</strong></p>
+</td>
+<td width="173">
+<p>France<br></p>
+</td>
+<td width="112">
+<p><strong>Alcohol Volume</strong></p>
+</td>
+<td width="142">
+<p>13%</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Brand Name</strong></p>
+</td>
+<td width="173">
+<p>Domaine Chanson</p>
+</td>
+<td width="112">
+<p><strong>Food Paring</strong></p>
+</td>
+<td width="142">
+<p>Fish, charcuterie, foat cheese<br></p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Closure</strong></p>
+</td>
+<td width="173">
+<p>Cork<br></p>
+</td>
+<td width="112">
+<p><strong>Wine Style</strong></p>
+</td>
+<td width="142">
+<p>Dry</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Wine Body</strong></p>
+</td>
+<td width="173">
+<p>Light Bodied</p>
+</td>
+<td width="112"></td>
+<td width="142"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>With over 200 years of history, Domaine Chanson remains a staple name not only in French wine-making industry, but also French history itself. Located in the middle of the beautiful and airy region of Beaune. <span>The remarkable Bastion de l’Oratoire, a 5-century old edifice, serves as the heart of Chanson's commitment in preserving Burgundian winemaking, being used exclusively for storing and aging fine wines by Chanson, giving every bottle an exotic taste of history.</span></p>
+<p><span>The Bourgogne Chardonnay features delicate floral fragrances mixed with citrus fruit on a hint of minerality. It brings forth a well-structured and precise taste with a well-integrated acidity and refreshing aftertaste with zesty notes.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4596315979851</id>
+      <title>Default Title</title>
+      <s:price currency="VND">710000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4591441117259</id>
+    <published>2020-06-11T20:31:21+07:00</published>
+    <updated>2020-06-11T20:31:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/le-bourgogne-pinot-noir-chanson-2016"/>
+    <title>Domaine Chanson - Bourgogne Pinot Noir Burgundy</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Chanson-Pere-Fils-Le-Bourgogne-PinotNoir-Burgundy.png?v=1591882321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            860000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td width="98">
+<p> <strong>Varietal</strong></p>
+</td>
+<td width="173">
+<p>Pinot Noir<br></p>
+</td>
+<td width="112">
+<p><strong>Size</strong></p>
+</td>
+<td width="142">
+<p>750 ml</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Region</strong></p>
+</td>
+<td width="173">
+<p><span>Côtes de Beaune</span></p>
+</td>
+<td width="112">
+<p><strong>Vintage(s)</strong></p>
+</td>
+<td width="142"></td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Country</strong></p>
+</td>
+<td width="173">
+<p>France<br></p>
+</td>
+<td width="112">
+<p><strong>Alcohol Volume</strong></p>
+</td>
+<td width="142">
+<p>12%</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Brand Name</strong></p>
+</td>
+<td width="173">
+<p>Domaine Chanson</p>
+</td>
+<td width="112">
+<p><strong>Food Paring</strong></p>
+</td>
+<td width="142">
+<p>Braised &amp; roasted meat, pasta<br></p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Closure</strong></p>
+</td>
+<td width="173">
+<p>Cork<br></p>
+</td>
+<td width="112">
+<p><strong>Wine Style</strong></p>
+</td>
+<td width="142">
+<p>Dry</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Wine Body</strong></p>
+</td>
+<td width="173">
+<p>Medium Bodied</p>
+</td>
+<td width="112"></td>
+<td width="142"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><span>With over 200 years of history, Domaine Chanson remains a staple name not only in French wine-making industry, but also French history itself. Located in the middle of the beautiful and airy region of Beaune. </span><span>The remarkable Bastion de l’Oratoire, a 5-century old edifice, serves as the heart of Chanson's commitment in preserving Burgundian winemaking, being used exclusively for storing and aging fine wines by Chanson, giving every bottle an exotic taste of history.</span></p>
+<p><span>The Bourgogne Pinot Noir Burgundy features intense aromas of ripe black cherries mixed with liquorice and spices. The tannins are well structured in a complex, well-crafted taste profile with a long and refreshing aftertaste.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4591441117259</id>
+      <title>Default Title</title>
+      <s:price currency="VND">860000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4590680997963</id>
+    <published>2020-06-11T20:31:21+07:00</published>
+    <updated>2020-06-11T20:31:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/macon-villages-domaine-chanson"/>
+    <title>Domaine Chanson - Mâcon Villages</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Domaine Chanson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Domaine-Chanson-Macon-Villages.png?v=1591882480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Chanson<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            830000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td width="98">
+<p> <strong>Varietal</strong></p>
+</td>
+<td width="173">
+<p>Chardonnay<br></p>
+</td>
+<td width="112">
+<p><strong>Size</strong></p>
+</td>
+<td width="142">
+<p>750 ml</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Region</strong></p>
+</td>
+<td width="173">
+<p><span>Côtes de Beaune</span></p>
+</td>
+<td width="112">
+<p><strong>Vintage(s)</strong></p>
+</td>
+<td width="142"></td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Country</strong></p>
+</td>
+<td width="173">
+<p>France<br></p>
+</td>
+<td width="112">
+<p><strong>Alcohol Volume</strong></p>
+</td>
+<td width="142">
+<p>13%</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Brand Name</strong></p>
+</td>
+<td width="173"><span>Domaine Chanson</span></td>
+<td width="112">
+<p><strong>Food Paring</strong></p>
+</td>
+<td width="142">
+<p>Charcuteries, fish, mild cheese<br></p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Closure</strong></p>
+</td>
+<td width="173">
+<p>Cork<br></p>
+</td>
+<td width="112">
+<p><strong>Wine Style</strong></p>
+</td>
+<td width="142">
+<p>Dry</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Wine Body</strong></p>
+</td>
+<td width="173">
+<p>Medium Bodied</p>
+</td>
+<td width="112"></td>
+<td width="142"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><span>With over 200 years of history, Domaine Chanson remains a staple name not only in French wine-making industry, but also French history itself. Located in the middle of the beautiful and airy region of Beaune. </span><span>The remarkable Bastion de l’Oratoire, a 5-century old edifice, serves as the heart of Chanson's commitment in preserving Burgundian winemaking, being used exclusively for storing and aging fine wines by Chanson, giving every bottle an exotic taste of history.</span></p>
+<p><span>The Mâcon Villages features delicate fragrances of fern mixed with aromas of citrus fruit on a hint of minerality. The palate is welcome with a well balanced profile, well-integrated acidity and refreshing aftertaste.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4590680997963</id>
+      <title>Default Title</title>
+      <s:price currency="VND">830000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

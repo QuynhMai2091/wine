@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://goviva.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://goviva.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://goviva.vn/collections/chateau-roubine.atom"/>
+  <title>VIVA House of Wine</title>
+  <updated>2021-01-28T14:36:18+07:00</updated>
+  <author>
+    <name>VIVA House of Wine</name>
+  </author>
+  <entry>
+    <id>https://goviva.vn/products/6224751427766</id>
+    <published>2021-01-28T14:36:18+07:00</published>
+    <updated>2021-01-28T14:36:18+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/chateau-roubine-cru-class-premium-cote-de-provence-blanc"/>
+    <title>Château Roubine - Cru Classé Premium Côte de Provence Blanc</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Château Roubine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/ChateauRoubine-CruClassePremiumCotedeProvenceBlanc.png?v=1611819379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Château Roubine<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            1030000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6224751427766</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1030000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4590458830923</id>
+    <published>2020-06-11T21:34:40+07:00</published>
+    <updated>2020-06-11T21:34:40+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/r-from-chateau-roubine"/>
+    <title>Château Roubine - R de Roubine Rosé</title>
+    <s:type>ROSÉ</s:type>
+    <s:vendor>Château Roubine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Chateau-Roubin-R-de-roubine-rose.png?v=1591886107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Château Roubine<br>
+        <strong>Type: </strong>ROSÉ<br>
+        <strong>Price: </strong>
+            680000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1"> <span data-mce-fragment="1">Pale salmon pink.</span></p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803"> Attractive bouquets of a<span data-mce-fragment="1">romas of red fruits display with notes of currants.</span></p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823"> B<span data-mce-fragment="1">alanced palate offering notes of wild strawberries and red currants constituting a well-rounded, elegant body.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4590458830923</id>
+      <title>Default Title</title>
+      <s:price currency="VND">680000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4590459486283</id>
+    <published>2020-06-11T11:34:04+07:00</published>
+    <updated>2020-06-11T11:34:04+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/chateau-roubine-cru-classe-rose"/>
+    <title>Château Roubine - Cru Classé Premium Côte de Provence Rosé</title>
+    <s:type>ROSÉ</s:type>
+    <s:vendor>Château Roubine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Chateauroubinepremiumrose.png?v=1611818855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Château Roubine<br>
+        <strong>Type: </strong>ROSÉ<br>
+        <strong>Price: </strong>
+            1030000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1"> <span data-mce-fragment="1">Pale salmon pink.</span></p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803"> <span data-mce-fragment="1">Delicate blended aromas of peach, red fruits and subtle floral notes giving away a indulging elegance and freshness.</span></p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823"> Refreshing l<span data-mce-fragment="1">ight, with good acidity and balance. The </span><span data-mce-fragment="1">finish is fresh and lasting, with emphasis on floral notes and touches of red fruits.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4590459486283</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1030000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://goviva.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://goviva.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://goviva.vn/collections/dog-point-vineyard.atom"/>
+  <title>VIVA House of Wine</title>
+  <updated>2020-11-09T17:10:36+07:00</updated>
+  <author>
+    <name>VIVA House of Wine</name>
+  </author>
+  <entry>
+    <id>https://goviva.vn/products/6038963191990</id>
+    <published>2020-11-09T17:10:36+07:00</published>
+    <updated>2020-11-09T17:10:36+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/dog-point-vineyard-section-94-sauvignon-blanc-marlborough"/>
+    <title>Dog Point Vineyard - Section 94 - Sauvignon Blanc - Marlborough</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Dog Point Vineyard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DogPointVineyard-Section94-SauvignonBlanc-Marlborough.png?v=1604483999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dog Point Vineyard<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            1510000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Zealand</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6038963191990</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1510000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4663481401419</id>
+    <published>2020-09-09T13:42:47+07:00</published>
+    <updated>2020-09-09T13:42:47+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/dog-point-vineyard-sauvignon-blanc-marlborough"/>
+    <title>Dog Point Vineyard - Sauvignon Blanc Marlborough</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Dog Point Vineyard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/dog-point-vineyard-sauvignon-blanc-marlborough-01.png?v=1599633873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dog Point Vineyard<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            1150000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table data-mce-fragment="1" width="100%">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1"></tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 20.6897%;" data-mce-style="width: 20.6897%;">Varietal</td>
+<td data-mce-fragment="1" style="width: 31.7604%;" data-mce-style="width: 31.7604%;">Sauvignon Blanc<br>
+</td>
+<td data-mce-fragment="1" style="width: 28.1307%;" data-mce-style="width: 28.1307%;">Size</td>
+<td data-mce-fragment="1" style="width: 14.3376%;" data-mce-style="width: 14.3376%;">750 ml</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 20.6897%;" data-mce-style="width: 20.6897%;">Region</td>
+<td data-mce-fragment="1" style="width: 31.7604%;" data-mce-style="width: 31.7604%;">Marlborough<br>
+</td>
+<td data-mce-fragment="1" style="width: 28.1307%;" data-mce-style="width: 28.1307%;">Vintage(s)<br data-mce-fragment="1">
+</td>
+<td data-mce-fragment="1" style="width: 14.3376%;" data-mce-style="width: 14.3376%;"></td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 20.6897%;" data-mce-style="width: 20.6897%;">Country</td>
+<td data-mce-fragment="1" style="width: 31.7604%;" data-mce-style="width: 31.7604%;">New Zealand<br>
+</td>
+<td data-mce-fragment="1" style="width: 28.1307%;" data-mce-style="width: 28.1307%;">Alcohol Volume</td>
+<td data-mce-fragment="1" style="width: 14.3376%;" data-mce-style="width: 14.3376%;">13.5%</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 20.6897%;" data-mce-style="width: 20.6897%;">Brand Name</td>
+<td data-mce-fragment="1" style="width: 31.7604%;" data-mce-style="width: 31.7604%;">Dog Point Vineyard<br>
+</td>
+<td data-mce-fragment="1" style="width: 28.1307%;" data-mce-style="width: 28.1307%;">Food Paring</td>
+<td data-mce-fragment="1" style="width: 14.3376%;" data-mce-style="width: 14.3376%;">Fish, shellfish, salad<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 20.6897%;" data-mce-style="width: 20.6897%;">Closure</td>
+<td data-mce-fragment="1" style="width: 31.7604%;" data-mce-style="width: 31.7604%;">Cork<br>
+</td>
+<td data-mce-fragment="1" style="width: 28.1307%;" data-mce-style="width: 28.1307%;">Wine Style</td>
+<td data-mce-fragment="1" style="width: 14.3376%;" data-mce-style="width: 14.3376%;">Dry</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 20.6897%;" data-mce-style="width: 20.6897%;">Wine Body</td>
+<td data-mce-fragment="1" style="width: 31.7604%;" data-mce-style="width: 31.7604%;">Medium Bodied</td>
+<td data-mce-fragment="1" style="width: 28.1307%;" data-mce-style="width: 28.1307%;"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Zealand</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4663481401419</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1150000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4591439020107</id>
+    <published>2020-06-11T11:34:04+07:00</published>
+    <updated>2020-06-11T11:34:04+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/dog-point-vineyard-pinot-noir-marlborough"/>
+    <title>Dog Point Vineyard - Pinot Noir Marlborough</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Dog Point Vineyard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/dog-point-pinot-noir-marlborough.png?v=1591851202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dog Point Vineyard<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            1650000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td width="98">
+<p> <strong>Varietal</strong></p>
+</td>
+<td width="173">
+<p>Pinot Noir<br></p>
+</td>
+<td width="112">
+<p><strong>Size</strong></p>
+</td>
+<td width="142">
+<p>750 ml</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Region</strong></p>
+</td>
+<td width="173">
+<p>Marlborough<br></p>
+</td>
+<td width="112">
+<p><strong>Vintage(s)</strong></p>
+</td>
+<td width="142"></td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Country</strong></p>
+</td>
+<td width="173">
+<p>New Zealand<br></p>
+</td>
+<td width="112">
+<p><strong>Alcohol Volume</strong></p>
+</td>
+<td width="142">
+<p>11%</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Brand Name</strong></p>
+</td>
+<td width="173">
+<p>Dog Point<br></p>
+</td>
+<td width="112">
+<p><strong>Food Paring</strong></p>
+</td>
+<td width="142">
+<p>Fish, Poultry<br></p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Closure</strong></p>
+</td>
+<td width="173">
+<p>Screw Cap</p>
+</td>
+<td width="112">
+<p><strong>Wine Style</strong></p>
+</td>
+<td width="142">
+<p>Dry</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Wine Body</strong></p>
+</td>
+<td width="173">
+<p>Light Bodied</p>
+</td>
+<td width="112"></td>
+<td width="142"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><span class="fontstyle0">Almost since its inception, Dog Point has been recognized as among the very top wine producers in New Zealand, creating wines of astounding quality and complexity — not just in the context of New Zealand wines, but globally. Their wines are hand-crafted from<br>estate fruit grown on some of the oldest vines and best sites in Marlborough, some plantings dating back to the 1970s. The winery’s insistence on lower yields and hand-harvesting makes them truly stand out amongst the masses.</span> <br></p>
+<p>The Pinot Noir Marlborough features intense aromas of ripe cherries and plums, framed with oak spice and earthy, sous-bois complexity. The tannins are regal, polished and powerful, carrying taste of rich dark cherries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Zealand</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4591439020107</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1650000</s:price>
+      <s:sku>10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

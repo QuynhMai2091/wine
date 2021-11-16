@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://goviva.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://goviva.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://goviva.vn/collections/torbreck.atom"/>
+  <title>VIVA House of Wine</title>
+  <updated>2021-03-16T16:12:21+07:00</updated>
+  <author>
+    <name>VIVA House of Wine</name>
+  </author>
+  <entry>
+    <id>https://goviva.vn/products/6582191259830</id>
+    <published>2021-03-16T16:12:21+07:00</published>
+    <updated>2021-03-16T16:12:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/torbreck-descendant"/>
+    <title>Torbreck - Descendant</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Torbreck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Torbreck-Descendant.png?v=1615885942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torbreck<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Australia</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6582191259830</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6106554794166</id>
+    <published>2020-11-26T18:03:00+07:00</published>
+    <updated>2020-11-26T18:03:00+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/torbreck-the-laird"/>
+    <title>Torbreck - The Laird</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Torbreck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Torbreck-TheLaird.png?v=1606388581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torbreck<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Australia</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6106554794166</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6041608454326</id>
+    <published>2020-11-09T17:20:23+07:00</published>
+    <updated>2020-11-09T17:20:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/torbreck-barossa-the-struie"/>
+    <title>Torbreck - Barossa - The Struie</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Torbreck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Torbreck-Barossa-TheStruie.png?v=1604586105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torbreck<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Australia</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6041608454326</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4663487529035</id>
+    <published>2020-09-09T14:29:36+07:00</published>
+    <updated>2020-09-09T14:29:36+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/torbreck-the-steading-blanc"/>
+    <title>Torbreck - The Steading Blanc</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Torbreck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/torbreck-the-steading-blanc-01.png?v=1599636709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torbreck<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            1440000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1"></tr>
+<tr data-mce-fragment="1">
+<td style="width: 20%;" data-mce-style="width: 20.6897%;" data-mce-fragment="1">Varietal</td>
+<td style="width: 31%;" data-mce-style="width: 31.7604%;" data-mce-fragment="1">44% Marsanne, 32% Roussanne, 24% Viognier<br>
+</td>
+<td style="width: 24.1887%;" data-mce-style="width: 28.1307%;" data-mce-fragment="1">Size</td>
+<td style="width: 17.8113%;" data-mce-style="width: 14.3376%;" data-mce-fragment="1">750 ml</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20%;" data-mce-style="width: 20.6897%;" data-mce-fragment="1">Region</td>
+<td style="width: 31%;" data-mce-style="width: 31.7604%;" data-mce-fragment="1">Maranaga<br>
+</td>
+<td style="width: 24.1887%;" data-mce-style="width: 28.1307%;" data-mce-fragment="1">Vintage(s)<br data-mce-fragment="1">
+</td>
+<td style="width: 17.8113%;" data-mce-style="width: 14.3376%;" data-mce-fragment="1"><br></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20%;" data-mce-style="width: 20.6897%;" data-mce-fragment="1">Country</td>
+<td style="width: 31%;" data-mce-style="width: 31.7604%;" data-mce-fragment="1">Australia<br>
+</td>
+<td style="width: 24.1887%;" data-mce-style="width: 28.1307%;" data-mce-fragment="1">Alcohol Volume</td>
+<td style="width: 17.8113%;" data-mce-style="width: 14.3376%;" data-mce-fragment="1">14.2%</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20%;" data-mce-style="width: 20.6897%;" data-mce-fragment="1">Brand Name</td>
+<td style="width: 31%;" data-mce-style="width: 31.7604%;" data-mce-fragment="1">Torbreck<br>
+</td>
+<td style="width: 24.1887%;" data-mce-style="width: 28.1307%;" data-mce-fragment="1">Food Paring</td>
+<td style="width: 17.8113%;" data-mce-style="width: 14.3376%;" data-mce-fragment="1">Fish, shellfish, poultry<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20%;" data-mce-style="width: 20.6897%;" data-mce-fragment="1">Closure</td>
+<td style="width: 31%;" data-mce-style="width: 31.7604%;" data-mce-fragment="1">Screw Cap<br>
+</td>
+<td style="width: 24.1887%;" data-mce-style="width: 28.1307%;" data-mce-fragment="1">Wine Style</td>
+<td style="width: 17.8113%;" data-mce-style="width: 14.3376%;" data-mce-fragment="1">Dry<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20%;" data-mce-style="width: 20.6897%;" data-mce-fragment="1">Wine Body</td>
+<td style="width: 31%;" data-mce-style="width: 31.7604%;" data-mce-fragment="1">Medium Bodied</td>
+<td style="width: 24.1887%;" data-mce-style="width: 28.1307%;" data-mce-fragment="1"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Australia</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4663487529035</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1440000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4663487332427</id>
+    <published>2020-09-09T14:24:19+07:00</published>
+    <updated>2020-09-09T14:24:19+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/torbreck-runrig"/>
+    <title>Torbreck - RunRig</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Torbreck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/torbreck-runrig-01.png?v=1599636352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torbreck<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1"></tr>
+<tr data-mce-fragment="1">
+<td style="width: 20.6897%;" data-mce-fragment="1" data-mce-style="width: 20.6897%;">Varietal</td>
+<td style="width: 31.7604%;" data-mce-fragment="1" data-mce-style="width: 31.7604%;">98.5% Shiraz; 1.5% Viognier<br>
+</td>
+<td style="width: 28.1307%;" data-mce-fragment="1" data-mce-style="width: 28.1307%;">Size</td>
+<td style="width: 14.3376%;" data-mce-fragment="1" data-mce-style="width: 14.3376%;">750 ml</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20.6897%;" data-mce-fragment="1" data-mce-style="width: 20.6897%;">Region</td>
+<td style="width: 31.7604%;" data-mce-fragment="1" data-mce-style="width: 31.7604%;">Lyndoch, Rowland Flat, Seppeltsfield, Greenock, Moppa &amp; Ebenezer<br>
+</td>
+<td style="width: 28.1307%;" data-mce-fragment="1" data-mce-style="width: 28.1307%;">Vintage(s)<br data-mce-fragment="1">
+</td>
+<td style="width: 14.3376%;" data-mce-fragment="1" data-mce-style="width: 14.3376%;">2013, 2014</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20.6897%;" data-mce-fragment="1" data-mce-style="width: 20.6897%;">Country</td>
+<td style="width: 31.7604%;" data-mce-fragment="1" data-mce-style="width: 31.7604%;">Australia<br>
+</td>
+<td style="width: 28.1307%;" data-mce-fragment="1" data-mce-style="width: 28.1307%;">Alcohol Volume</td>
+<td style="width: 14.3376%;" data-mce-fragment="1" data-mce-style="width: 14.3376%;">15%</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20.6897%;" data-mce-fragment="1" data-mce-style="width: 20.6897%;">Brand Name</td>
+<td style="width: 31.7604%;" data-mce-fragment="1" data-mce-style="width: 31.7604%;">Torbreck<br>
+</td>
+<td style="width: 28.1307%;" data-mce-fragment="1" data-mce-style="width: 28.1307%;">Food Paring</td>
+<td style="width: 14.3376%;" data-mce-fragment="1" data-mce-style="width: 14.3376%;">Red meat, game meat<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20.6897%;" data-mce-fragment="1" data-mce-style="width: 20.6897%;">Closure</td>
+<td style="width: 31.7604%;" data-mce-fragment="1" data-mce-style="width: 31.7604%;">Cork<br>
+</td>
+<td style="width: 28.1307%;" data-mce-fragment="1" data-mce-style="width: 28.1307%;">Wine Style</td>
+<td style="width: 14.3376%;" data-mce-fragment="1" data-mce-style="width: 14.3376%;">Dry<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 20.6897%;" data-mce-fragment="1" data-mce-style="width: 20.6897%;">Wine Body</td>
+<td style="width: 31.7604%;" data-mce-fragment="1" data-mce-style="width: 31.7604%;">Full Bodied</td>
+<td style="width: 28.1307%;" data-mce-fragment="1" data-mce-style="width: 28.1307%;"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Australia</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4663487332427</id>
+      <title>2013</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://goviva.vn/products/4663487332427</id>
+      <title>2014</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://goviva.vn/products/4663487332427</id>
+      <title>2016</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4591442100299</id>
+    <published>2020-06-11T22:06:46+07:00</published>
+    <updated>2020-06-11T22:06:46+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/torbreck-woodcutters-2018"/>
+    <title>Torbreck - Woodcutter&apos;s Shiraz</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Torbreck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Torbreck-Woodcutter_s-Shiraz.png?v=1615885762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torbreck<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            1000000 - 1880000
+            <a href="https://goviva.vn/products/torbreck-woodcutters-2018">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td width="98">
+<p> <strong>Varietal</strong></p>
+</td>
+<td width="173">
+<p>Shiraz<br></p>
+</td>
+<td width="112">
+<p><strong>Size</strong></p>
+</td>
+<td width="142">
+<p>750 ml</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Region</strong></p>
+</td>
+<td width="173">
+<p>Barossa Valley</p>
+</td>
+<td width="112">
+<p><strong>Vintage(s)</strong></p>
+</td>
+<td width="142"></td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Country</strong></p>
+</td>
+<td width="173">
+<p>Australia<br></p>
+</td>
+<td width="112">
+<p><strong>Alcohol Volume</strong></p>
+</td>
+<td width="142">
+<p>15%</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Brand Name</strong></p>
+</td>
+<td width="173">
+<p>Torbreck<br></p>
+</td>
+<td width="112">
+<p><strong>Food Paring</strong></p>
+</td>
+<td width="142">
+<p>Red meat, game meat, poultry</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Closure</strong></p>
+</td>
+<td width="173">
+<p>Screw Cap<br></p>
+</td>
+<td width="112">
+<p><strong>Wine Style</strong></p>
+</td>
+<td width="142">
+<p>Dry</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Wine Body</strong></p>
+</td>
+<td width="173">
+<p>Full Bodied</p>
+</td>
+<td width="112"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Founded by David Powell in 1994 following his long attempt to rejuvenate old vineyards in the Barossa Valley in Australia, Torbreck started to gain national and international acclaim for its creations. With a style that emulate the famed Rhône wine-making, Torbreck combined French viticulture and European crops of grapes tended on rich Australian soils, Torbreck continues to innovate its wine collection year-to-year, bringing Australia to the forefront of contemporary wine-making, earning the accolade of best 100 worldwide wineries by Robert Parker.</p>
+<p>The Woodcutter's Shiraz features aromatic notes of<span class="fontstyle0"> plums and raspberries with underlying core of cassis, dark cherry, spice and vanilla. The palate is bright, with a soft tannins and textural mouthfeel.</span>​</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Australia</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4591442100299</id>
+      <title>750ml</title>
+      <s:price currency="VND">1000000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://goviva.vn/products/4591442100299</id>
+      <title>1.5L</title>
+      <s:price currency="VND">1880000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4591438004299</id>
+    <published>2020-06-11T21:41:09+07:00</published>
+    <updated>2020-06-11T21:41:09+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/torbreck-old-vines-2017"/>
+    <title>Torbreck - Old Vines Grenache Shiraz Mourvèdre</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Torbreck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Torbreck-Old-Vines-Grenache-Shiraz-Mourvedre-2005.png?v=1591888148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torbreck<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            710000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td width="98">
+<p> <strong>Varietal</strong></p>
+</td>
+<td width="173">
+<p>Grenache, Shiraz, Mourvèdre<br></p>
+</td>
+<td width="112">
+<p><strong>Size</strong></p>
+</td>
+<td width="142">
+<p>750 ml</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Region</strong></p>
+</td>
+<td width="173">
+<p>Barossa Valley</p>
+</td>
+<td width="112">
+<p><strong>Vintage(s)</strong></p>
+</td>
+<td width="142"></td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Country</strong></p>
+</td>
+<td width="173">
+<p>Australia<br></p>
+</td>
+<td width="112">
+<p><strong>Alcohol Volume</strong></p>
+</td>
+<td width="142">
+<p>15%</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Brand Name</strong></p>
+</td>
+<td width="173">
+<p>Torbreck<br></p>
+</td>
+<td width="112">
+<p><strong>Food Paring</strong></p>
+</td>
+<td width="142">
+<p>Grilled meat, game meat</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Closure</strong></p>
+</td>
+<td width="173">
+<p>Screw Cap</p>
+</td>
+<td width="112">
+<p><strong>Wine Style</strong></p>
+</td>
+<td width="142">
+<p>Dry</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Wine Body</strong></p>
+</td>
+<td width="173">
+<p>Medium Bodied</p>
+</td>
+<td width="112"></td>
+<td width="142"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Founded by David Powell in 1994 following his long attempt to rejuvenate old vineyards in the Barossa Valley in Australia, Torbreck started to gain national and international acclaim for its creations. With a style that emulate the famed Rhône wine-making, Torbreck combined French viticulture and European crops of grapes tended on rich Australian soils, Torbreck continues to innovate its wine collection year-to-year, bringing Australia to the forefront of contemporary wine-making, earning the accolade of best 100 worldwide wineries by Robert Parker.</p>
+<p>The Old Vines Grenache Shiraz Mourvèdre features <span>high-toned aromas of black cherries, five spice, creme de cassis and lavender, supported by a rich core of roasted earth, liquorice, saddle leather and spice. The palate offers a soft latent richness and silken-like texture with subtle notes of dark cherries, plum and spice- all neatly wound by a taught spine of acidity and ripe supple tannins.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Australia</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4591438004299</id>
+      <title>Default Title</title>
+      <s:price currency="VND">710000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4590689550411</id>
+    <published>2020-06-11T21:41:09+07:00</published>
+    <updated>2020-06-11T21:41:09+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/torbreck-the-steading"/>
+    <title>Torbreck - The Steading</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Torbreck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Torbreck-the-steading.png?v=1591886905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torbreck<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            1660000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td width="98">
+<p> <strong>Varietal</strong></p>
+</td>
+<td width="173">52% Grenache, 25% Shiraz, 23% Mourvèdre<br>
+</td>
+<td width="112">
+<p><strong>Size</strong></p>
+</td>
+<td width="142">
+<p>750 ml</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Region</strong></p>
+</td>
+<td width="173">
+<p>Barossa Valley</p>
+</td>
+<td width="112">
+<p><strong>Vintage(s)</strong></p>
+</td>
+<td width="142"></td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Country</strong></p>
+</td>
+<td width="173">
+<p>Australia<br></p>
+</td>
+<td width="112">
+<p><strong>Alcohol Volume</strong></p>
+</td>
+<td width="142">
+<p>15%</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Brand Name</strong></p>
+</td>
+<td width="173">
+<p>Torbreck<br></p>
+</td>
+<td width="112">
+<p><strong>Food Paring</strong></p>
+</td>
+<td width="142">
+<p>Red meat, game meat, pasta</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Closure</strong></p>
+</td>
+<td width="173">
+<p>Cork<br></p>
+</td>
+<td width="112">
+<p><strong>Wine Style</strong></p>
+</td>
+<td width="142">
+<p>Dry</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Wine Body</strong></p>
+</td>
+<td width="173">
+<p>Medium Bodied</p>
+</td>
+<td width="112"></td>
+<td width="142"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Founded by David Powell in 1994 following his long attempt to rejuvenate old vineyards in the Barossa Valley in Australia, Torbreck started to gain national and international acclaim for its creations. With a style that emulate the famed Rhône wine-making, Torbreck combined French viticulture and European crops of grapes tended on rich Australian soils, Torbreck continues to innovate its wine collection year-to-year, bringing Australia to the forefront of contemporary wine-making, earning the accolade of best 100 worldwide wineries by Robert Parker.</p>
+<p>The Steading features v<span class="fontstyle0">ibrant aromas of violet, star anise and spice with underlying palate of dark fruits, black olive, savoury earth, liquorice and Asian spices.  The tannins are supple and silky with a balance of acidity, making a complex yet elegant profile on mouthfeel.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Australia</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4590689550411</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1660000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

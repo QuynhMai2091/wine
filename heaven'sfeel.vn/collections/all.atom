@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://goviva.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://goviva.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://goviva.vn/collections/all.atom"/>
+  <title>VIVA House of Wine</title>
+  <updated>2021-09-18T16:03:23+07:00</updated>
+  <author>
+    <name>VIVA House of Wine</name>
+  </author>
+  <entry>
+    <id>https://goviva.vn/products/7036112863414</id>
+    <published>2021-09-18T16:03:23+07:00</published>
+    <updated>2021-09-18T16:03:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/bollinger-007-limited-edition-millesime-2011"/>
+    <title>Bollinger 007 Limited Edition Millesime 2011</title>
+    <s:type>CHAMPAGNE</s:type>
+    <s:vendor>Bollinger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/bollinger-007-limited-edition-2011-magnum.png?v=1631955804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bollinger<br>
+        <strong>Type: </strong>CHAMPAGNE<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://goviva.vn/products/7036112863414</id>
+      <title>Without box</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://goviva.vn/products/7036112863414</id>
+      <title>With box</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/7036103065782</id>
+    <published>2021-09-18T15:57:45+07:00</published>
+    <updated>2021-09-18T15:57:45+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/bollinger-pnvz15-brut-champagne"/>
+    <title>Bollinger PNvz15 Brut Champagne</title>
+    <s:type>CHAMPAGNE</s:type>
+    <s:vendor>Bollinger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/bollinger-pn-vz15.png?v=1631955465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bollinger<br>
+        <strong>Type: </strong>CHAMPAGNE<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://goviva.vn/products/7036103065782</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/7036037234870</id>
+    <published>2021-09-18T15:09:21+07:00</published>
+    <updated>2021-09-18T15:09:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/chateau-lagrange-pomerol"/>
+    <title>Château Lagrange Pomerol</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Château Lagrange</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Chateau_Lagrange_Pomerol_AOC_600x600_8687a25c-5dd7-4789-a3bd-9616f72b4b1c.png?v=1631952543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Château Lagrange<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://goviva.vn/products/7036037234870</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/7036029730998</id>
+    <published>2021-09-18T15:03:11+07:00</published>
+    <updated>2021-09-18T15:03:11+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/chateau-hosana"/>
+    <title>Château Hosanna</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Château Hosanna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/1254560x.jpg?v=1631952138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Château Hosanna<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://goviva.vn/products/7036029730998</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/7035992211638</id>
+    <published>2021-09-18T15:03:11+07:00</published>
+    <updated>2021-09-18T15:03:11+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/chateau-belair-monange"/>
+    <title>Château BÉLAIR-MONANGE</title>
+    <s:type></s:type>
+    <s:vendor>VIVA House of Wine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/10992637509662.jpg?v=1631951039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VIVA House of Wine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://goviva.vn/products/7035992211638</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku>30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6872121704630</id>
+    <published>2021-07-15T14:33:16+07:00</published>
+    <updated>2021-07-15T14:33:16+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/petrus-pomerol-1994"/>
+    <title>Petrus, Pomerol 1994</title>
+    <s:type></s:type>
+    <s:vendor>VIVA House of Wine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Petrus_Pomerol1994.png?v=1626334396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VIVA House of Wine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="917" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="292" data-mce-fragment="1">Varietal</td>
+<td width="221" data-mce-fragment="1">95% Merlot, 5% Cabernet Franc</td>
+<td width="193" data-mce-fragment="1">Size</td>
+<td width="211" data-mce-fragment="1">750 ml</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="292" data-mce-fragment="1">Region</td>
+<td width="221" data-mce-fragment="1">Bordeaux, Pomerol</td>
+<td width="193" data-mce-fragment="1">Vintage(s)</td>
+<td width="211" data-mce-fragment="1">1994</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="292" data-mce-fragment="1">Country</td>
+<td width="221" data-mce-fragment="1">France</td>
+<td width="193" data-mce-fragment="1">Alcohol Volume</td>
+<td width="211" data-mce-fragment="1">13%</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="292" data-mce-fragment="1">Brand Name</td>
+<td width="221" data-mce-fragment="1">Petrus, Pomerol 1981</td>
+<td width="193" data-mce-fragment="1">Food Paring</td>
+<td width="211" data-mce-fragment="1">Beef and Venison</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="292" data-mce-fragment="1">Closure</td>
+<td width="221" data-mce-fragment="1">Cork</td>
+<td width="193" data-mce-fragment="1">Wine Style</td>
+<td width="211" data-mce-fragment="1">Red - Savory and Classic</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="292" data-mce-fragment="1">Wine Body</td>
+<td width="221" data-mce-fragment="1">Full Bodied</td>
+<td width="193" data-mce-fragment="1"> </td>
+<td data-mce-fragment="1"> </td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://goviva.vn/products/6872121704630</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6872115642550</id>
+    <published>2021-07-15T14:32:00+07:00</published>
+    <updated>2021-07-15T14:32:00+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/petrus-pomerol-1981"/>
+    <title>Petrus, Pomerol 1981</title>
+    <s:type></s:type>
+    <s:vendor>VIVA House of Wine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Petrus_Pomerol1981.png?v=1626334225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VIVA House of Wine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="917" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="292" data-mce-fragment="1">Varietal</td>
+<td width="221" data-mce-fragment="1">95% Merlot, 5% Cabernet Franc</td>
+<td width="193" data-mce-fragment="1">Size</td>
+<td width="211" data-mce-fragment="1">750 ml</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="292" data-mce-fragment="1">Region</td>
+<td width="221" data-mce-fragment="1">Bordeaux, Pomerol</td>
+<td width="193" data-mce-fragment="1">Vintage(s)</td>
+<td width="211" data-mce-fragment="1">1981</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="292" data-mce-fragment="1">Country</td>
+<td width="221" data-mce-fragment="1">France</td>
+<td width="193" data-mce-fragment="1">Alcohol Volume</td>
+<td width="211" data-mce-fragment="1">13%</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="292" data-mce-fragment="1">Brand Name</td>
+<td width="221" data-mce-fragment="1">Petrus, Pomerol 1981</td>
+<td width="193" data-mce-fragment="1">Food Paring</td>
+<td width="211" data-mce-fragment="1">Beef and Venison</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="292" data-mce-fragment="1">Closure</td>
+<td width="221" data-mce-fragment="1">Cork</td>
+<td width="193" data-mce-fragment="1">Wine Style</td>
+<td width="211" data-mce-fragment="1">Red - Savory and Classic</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="292" data-mce-fragment="1">Wine Body</td>
+<td width="221" data-mce-fragment="1">Full Bodied</td>
+<td width="193" data-mce-fragment="1"> </td>
+<td data-mce-fragment="1"> </td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://goviva.vn/products/6872115642550</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6872101421238</id>
+    <published>2021-07-15T14:27:03+07:00</published>
+    <updated>2021-07-15T14:27:03+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/duckhorn-vineyards-napa-valley-cabernet"/>
+    <title>Duckhorn Vineyards Napa Valley Cabernet</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Duckhorn Vineyards</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/DUCKHORNCABSAU.png?v=1626334000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Duckhorn Vineyards<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td width="94">
+<p><strong>Varietal</strong></p>
+</td>
+<td width="174">
+<p>83% Cabernet Sauvignon <br>16% Merlot <br>0.8% Cabernet Franc <br>0.2% Petit Verdot</p>
+</td>
+<td width="106">
+<p><strong>Size</strong></p>
+</td>
+<td width="153">
+<p>750 ml</p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p><strong>Region</strong></p>
+</td>
+<td width="174">
+<p>Napa Valley<br></p>
+</td>
+<td width="106" style="text-align: left;">
+<p><b>Vintages</b></p>
+</td>
+<td width="153" style="text-align: left;"><span mce-data-marked="1">2018</span></td>
+</tr>
+<tr>
+<td width="94">
+<p><strong>Country</strong></p>
+</td>
+<td width="174">
+<p>USA</p>
+</td>
+<td width="106">
+<p><strong>Alcohol Volume</strong></p>
+</td>
+<td width="153">
+<p>14.5%</p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p><strong>Brand Name</strong></p>
+</td>
+<td width="174">
+<p> Duckhorn Vineyards Napa Valley Cabernet</p>
+</td>
+<td width="106">
+<p><strong>Food Paring</strong></p>
+</td>
+<td width="153">
+<p>Meat dishes and cheese cuts</p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p><strong>Closure</strong></p>
+</td>
+<td width="174">
+<p>Cork</p>
+</td>
+<td width="106">
+<p><strong>Wine Style</strong></p>
+</td>
+<td width="153">
+<p>Dry<br></p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p><strong>Wine Body</strong></p>
+</td>
+<td width="174">
+<p>Full Bodied</p>
+</td>
+<td width="106"></td>
+<td width="153"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>America</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6872101421238</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6737966006454</id>
+    <published>2021-05-24T14:13:47+07:00</published>
+    <updated>2021-05-24T14:13:47+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/michel-magnien-monopole-les-mogottes-marsannay"/>
+    <title>Michel Magnien - Monopole Les Mogottes Marsannay</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Domaine Michel Magnien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/MichelMagnien-MonopoleLesMogottesMarsannay.png?v=1621840427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Domaine Michel Magnien<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6737966006454</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6076482617526</id>
+    <published>2021-05-20T15:58:31+07:00</published>
+    <updated>2021-05-20T15:58:31+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/hubert-lamy-bourgogne-les-chataigners"/>
+    <title>Hubert Lamy - Bourgogne - Les Chataigners</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Hubert Lamy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/HubertLamy-Bourgogne-LesChataigners.png?v=1605112212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hubert Lamy<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-selected="1"> Wine attractive yellow-golden color.</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" data-mce-selected="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" data-mce-fragment="1"> The wine has an expressive, rich aroma, blend harmoniously in the notes of green apple, lime and citrus, complemented by mineral and vanilla nuances.</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-selected="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-fragment="1"> Taste wine deep, complex and fresh, with notes of citrus and lime zest, with balanced acidity and a long finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6076482617526</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6702092157110</id>
+    <published>2021-05-08T14:54:24+07:00</published>
+    <updated>2021-05-08T14:54:24+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/hubert-lamy-santenay-clos-des-hates"/>
+    <title>Hubert Lamy - Santenay Clos des Hâtes</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Hubert Lamy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/HubertLamy-SantenayClosdesHates.png?v=1620460465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hubert Lamy<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-selected="1"> Wine golden brown.</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" data-mce-selected="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" data-mce-fragment="1"> More elegant than usual, filled with the aroma of wine tones of apple, white peach, pear and acacia flowers.</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-selected="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-fragment="1"> Beautiful, well-balanced taste of the wine has excellent energy and quite good detail. The kernel consists of a dense bouquet notes of citrus shades nectarine and apple varieties Granny Smith, turning into a pleasant, persistent, spicy aftertaste.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6702092157110</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6702072234166</id>
+    <published>2021-05-08T14:34:49+07:00</published>
+    <updated>2021-05-08T14:34:49+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/hubert-lamy-saint-aubin-1er-cru-les-frionnes"/>
+    <title>Hubert Lamy - Saint Aubin 1er Cru - Les Frionnes</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Hubert Lamy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/HubertLamy-SaintAubin1erCru-LesFrionnes.png?v=1620459290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hubert Lamy<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-selected="1"> Wine brilliant yellow-gold color with greenish reflections.</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" data-mce-selected="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" data-mce-fragment="1"> The wine has a fresh, seductive scent with notes of citrus, complemented by smoky nuances and rocky.</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-selected="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-fragment="1"> The taste of wine is dry, fresh, energetic, with balanced acidity and minerality, citrus shades and harmonious aftertaste.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6702072234166</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6612598161590</id>
+    <published>2021-03-29T10:50:50+07:00</published>
+    <updated>2021-03-29T10:50:50+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/gaja-gaia-rey-langhe"/>
+    <title>GAJA - Gaia &amp; Rey Langhe</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>GAJA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/GAJAGaia_ReyLanghe.png?v=1616989850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GAJA<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721"> <span mce-data-marked="1" data-mce-fragment="1">Bright and vivid straw color.</span></p>
+<p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803"> <span data-mce-fragment="1">The aromas show white flowers and depth, with expressive notes of green apple, pear and stony minerality.</span></p>
+<p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823"> <span data-mce-fragment="1">On entry, Gaia &amp; Rey opens up slowly, flooding the palate with ripe fruit flavors and texture. This wine will show all its surprising potential over the years, rewarding those who have the patience. The oak is beautifully integrated, and the finish is crisp and lingering.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Italy</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6612598161590</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6612597047478</id>
+    <published>2021-03-29T10:49:19+07:00</published>
+    <updated>2021-03-29T10:49:19+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/gaja-rossj-bass-langhe"/>
+    <title>GAJA - Rossj-Bass Langhe</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>GAJA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/GAJARossj-BassLanghe.png?v=1616989759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GAJA<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721"> <span data-mce-fragment="1">Golden color with greenish hues</span></p>
+<p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803"> An elegant and complex bouquet with floral notes of wisteria, lemon balm and acacia flowers, fruity nuances of peach, swiftly leading the way for a marine hint.</p>
+<p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823"> Intense and crisp, with a vibrant structure that resonates with citrus fruits and mineral elements. It shows itself little by little, with refreshing minerality on the long finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chardonnay</s:tag>
+    <s:tag>Italy</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6612597047478</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6612594065590</id>
+    <published>2021-03-29T10:46:22+07:00</published>
+    <updated>2021-03-29T10:46:22+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/gaja-dagromis-barolo"/>
+    <title>GAJA - Dagromis Barolo</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>GAJA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/GAJADagromisBarolo.png?v=1616989582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GAJA<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721"> <span data-mce-fragment="1">Intense red color.</span></p>
+<p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803"> <span data-mce-fragment="1">Violets, rose petals and a hint of white pepper combined with rich notes of redcurrant, licorice and balanced oak.</span></p>
+<p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823"> A pleasant freshness to the palate with juicy red orange and grapefruit notes. Fragrant, medium in body and well balanced. An initial dry sensation from the oak, that softens with time. Noticeable tannins, yet fine. About to bloom, its harmonious complexity foretells a promising ageing potential.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Italy</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6612594065590</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6582831546550</id>
+    <published>2021-03-16T22:16:20+07:00</published>
+    <updated>2021-03-16T22:16:20+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/chateau-dissan-blason-dissan-margaux"/>
+    <title>Château d&apos;Issan - Blason d&apos;Issan Margaux</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Château d&apos;Issan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Chateaud_Issan-Blasond_IssanMargaux.png?v=1615907779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Château d&#39;Issan<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6582831546550</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6582801629366</id>
+    <published>2021-03-16T22:01:02+07:00</published>
+    <updated>2021-03-16T22:01:02+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/chateau-guiraud-petit-guiraud-sauternes"/>
+    <title>Château Guiraud - Petit Guiraud Sauternes</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Château Guiraud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/ChateauGuiraud-PetitGuiraudSauternes.png?v=1615906862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Château Guiraud<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            1610000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6582801629366</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1610000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6582783705270</id>
+    <published>2021-03-16T21:50:56+07:00</published>
+    <updated>2021-03-16T21:50:56+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/chateau-giscours-la-sirene-de-giscours-margaux-1"/>
+    <title>Château Giscours - La Sirène de Giscours Margaux</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Château Giscours</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/ChateauGiscours-LaSirenedeGiscoursMargaux.png?v=1615906256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Château Giscours<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            1250000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6582783705270</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1250000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6582762700982</id>
+    <published>2021-03-16T21:33:17+07:00</published>
+    <updated>2021-03-16T21:33:17+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/principi-di-butera-cabernet-sauvignon-sicily"/>
+    <title>Principi Di Butera - Cabernet Sauvignon Sicily</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Principi Di Butera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/PrincipiDiButera-CabernetSauvignonSicily.png?v=1615905197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Principi Di Butera<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            690000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Italy</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6582762700982</id>
+      <title>Default Title</title>
+      <s:price currency="VND">690000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6582749069494</id>
+    <published>2021-03-16T21:27:21+07:00</published>
+    <updated>2021-03-16T21:27:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/bollinger-la-cote-aux-enfants"/>
+    <title>Bollinger La Côte Aux Enfants</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Bollinger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Bollinger-LaCoteAuxEnfants15.png?v=1615904764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bollinger<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6582749069494</id>
+      <title>750ml</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://goviva.vn/products/6582749069494</id>
+      <title>1.5L</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6582729769142</id>
+    <published>2021-03-16T21:16:45+07:00</published>
+    <updated>2021-03-16T21:16:45+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/bollinger-la-grande-annee"/>
+    <title>Bollinger La Grande Année</title>
+    <s:type>CHAMPAGNE</s:type>
+    <s:vendor>Bollinger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/bollinger-la-grande-annee-1604757.jpg?v=1631955246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bollinger<br>
+        <strong>Type: </strong>CHAMPAGNE<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6582729769142</id>
+      <title>2012</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6582355755190</id>
+    <published>2021-03-16T17:53:23+07:00</published>
+    <updated>2021-03-16T17:53:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/ayala-blanc-de-blancs"/>
+    <title>Ayala Blanc de Blancs</title>
+    <s:type>CHAMPAGNE</s:type>
+    <s:vendor>Ayala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/AyalaBlancdeBlancs.png?v=1615892003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ayala<br>
+        <strong>Type: </strong>CHAMPAGNE<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6582355755190</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6582350086326</id>
+    <published>2021-03-16T17:49:17+07:00</published>
+    <updated>2021-03-16T17:49:17+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/ayala-brut-nature-zero-dosage"/>
+    <title>Ayala Brut Nature (Zero Dosage)</title>
+    <s:type>CHAMPAGNE</s:type>
+    <s:vendor>Ayala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Lapostolle-ClosApalta2014_1.png?v=1615891757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ayala<br>
+        <strong>Type: </strong>CHAMPAGNE<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>France</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6582350086326</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6582308569270</id>
+    <published>2021-03-16T17:27:15+07:00</published>
+    <updated>2021-03-16T17:27:15+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/clos-apalta-2014"/>
+    <title>Clos Apalta 2014</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Clos Apalta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Lapostolle-ClosApalta2014.png?v=1615890434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clos Apalta<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chile</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6582308569270</id>
+      <title>Default Title</title>
+      <s:price currency="VND">0</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/6582286188726</id>
+    <published>2021-03-16T17:15:55+07:00</published>
+    <updated>2021-03-16T17:15:55+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/lapostolle-canto-de-apalta"/>
+    <title>Lapostolle - Canto de Apalta</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Lapostolle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Lapostolle-CantodeApalta.png?v=1615889756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lapostolle<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            910000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chile</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6582286188726</id>
+      <title>Default Title</title>
+      <s:price currency="VND">910000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

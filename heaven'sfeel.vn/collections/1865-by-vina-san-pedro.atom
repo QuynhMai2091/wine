@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://goviva.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://goviva.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://goviva.vn/collections/1865-by-vina-san-pedro.atom"/>
+  <title>VIVA House of Wine</title>
+  <updated>2020-11-11T14:25:40+07:00</updated>
+  <author>
+    <name>VIVA House of Wine</name>
+  </author>
+  <entry>
+    <id>https://goviva.vn/products/6075539325110</id>
+    <published>2020-11-11T14:25:40+07:00</published>
+    <updated>2020-11-11T14:25:40+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/1865-master-blend"/>
+    <title>1865 - Master Blend</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>1865 by Viña San Pedro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/1865-MasterBlend.png?v=1605079530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1865 by Viña San Pedro<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            1940000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721"> <span data-mce-fragment="1">Deep ruby color.</span></p>
+<p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803"> <span data-mce-fragment="1">Upfront aromas of ripe red fruit, such as cherries and redcurrants, along with soft spicy notes like nutmeg and hints of vanilla and cocoa.</span></p>
+<p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823"> G<span data-mce-fragment="1">ood body, medium structure, and balanced acidity. The tannins are smooth, leading to a pleasant, elegant and prolonged finish.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chile</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/6075539325110</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1940000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4595852214347</id>
+    <published>2020-06-11T10:18:23+07:00</published>
+    <updated>2020-06-11T10:18:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/1865-selected-vineyards-sauvignon-blanc"/>
+    <title>1865 - Selected Vineyards Sauvignon Blanc</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>1865 by Viña San Pedro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/1865-selected-vineyards-sauvignon-blanc-01-02.png?v=1593152199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1865 by Viña San Pedro<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            1110000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721"> <span data-mce-fragment="1">Bright, pale yellow with greenish hues.</span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" alt=""> <span data-mce-fragment="1">Great aromatic intensity, complex and elegant. Upfront notes of citrus peel, like grapefruit, along with tropical notes, including passionfruit, intermingled with herbal notes like asparagus.</span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt=""> <span data-mce-fragment="1">Fresh and with good volume. This is a well-balanced wine with vibrant acidity and a long finish in which the notes perceived on the nose reappear.</span></p>
+<p><span><br> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chile</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4595852214347</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1110000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4590696464459</id>
+    <published>2020-06-11T10:18:23+07:00</published>
+    <updated>2020-06-11T10:18:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/1865-selected-vineyards-cabernet-sauvignon-2017"/>
+    <title>1865 - Selected Vineyards Cabernet Sauvignon</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>1865 by Viña San Pedro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/1865-selected-vineyards-cabernet-sauvignon-1-01.png?v=1593152083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1865 by Viña San Pedro<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            1110000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721"> <span data-mce-fragment="1">Cherry-red with violet hues.</span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" alt=""> P<span data-mce-fragment="1">redominated by red fruit, like raspberries and cherries, and berries, such as blueberries. There are also spicy notes imparted from wine’s barrel aging, which adds complexity to this wine.</span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt=""> <span data-mce-fragment="1">Balanced, with good body and medium structure. The tannins are smooth, leading to a pleasant, elegant and prolonged finish.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chile</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4590696464459</id>
+      <title>Default Title</title>
+      <s:price currency="VND">1110000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

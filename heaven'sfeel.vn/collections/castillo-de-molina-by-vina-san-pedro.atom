@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://goviva.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://goviva.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://goviva.vn/collections/castillo-de-molina-by-vina-san-pedro.atom"/>
+  <title>VIVA House of Wine</title>
+  <updated>2020-09-09T13:31:21+07:00</updated>
+  <author>
+    <name>VIVA House of Wine</name>
+  </author>
+  <entry>
+    <id>https://goviva.vn/products/4663479861323</id>
+    <published>2020-09-09T13:31:21+07:00</published>
+    <updated>2020-09-09T13:31:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/castillo-de-molina-cabernet-sauvignon"/>
+    <title>Castillo de Molina - Cabernet Sauvignon Reserva</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Castillo de Molina by Viña San Pedro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/castillo-de-Molina-cabernet-sauvignon-01.png?v=1599637044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castillo de Molina by Viña San Pedro<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            690000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Eye_15002c25-f276-466f-98d1-747833e43985_480x480.png?v=1612757721" data-mce-fragment="1"> <span data-mce-fragment="1">Intense and dark </span>color<span data-mce-fragment="1"> with blackish violet tones.</span></p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Nose_480x480.png?v=1612757803"> <span data-mce-fragment="1">Classic bouquet of aromas with pepper notes, some chocolate, oak from its barrel aging, and very smooth black fruit, which are being replaced by a very elegant and pleasant aging in the bottle.</span></p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823"> <span data-mce-fragment="1">The palate is gentle on the attack, followed by tannins that lend it structure and strength, oak is present and well-integrated until the end, this is a medium-bodied wine</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chile</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4663479861323</id>
+      <title>Default Title</title>
+      <s:price currency="VND">690000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4590684078155</id>
+    <published>2020-06-11T10:41:36+07:00</published>
+    <updated>2020-06-11T10:41:36+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/castillo-de-molina-reserva-1"/>
+    <title>Castillo de Molina Syrah Reserva</title>
+    <s:type>Red Wine</s:type>
+    <s:vendor>Castillo de Molina by Viña San Pedro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Castillo-de-Molina-Syrah-Reserva.png?v=1591847798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castillo de Molina by Viña San Pedro<br>
+        <strong>Type: </strong>Red Wine<br>
+        <strong>Price: </strong>
+            690000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823">Deep, bright violet color.</span></p>
+<p><span><img alt="" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-fragment="1">Elegant and complex on the nose, characterized by red fruits and hints of black fruit such as berries and plum. </span></p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-selected="1">Subtle floral notes are present, as well as bacon and chocolate.</span></p>
+<p><span> <img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-selected="1">A very friendly wine, with good volume and smooth, ripe tannins. </span></p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0294/4958/4715/files/Taste_480x480.png?v=1612757823" data-mce-selected="1">A rich acidity lends the wine freshness and a persistent finish.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chile</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4590684078155</id>
+      <title>Default Title</title>
+      <s:price currency="VND">690000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://goviva.vn/products/4590454636619</id>
+    <published>2020-06-11T10:18:23+07:00</published>
+    <updated>2020-06-11T10:18:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://goviva.vn/products/castillo-de-molina-reserva"/>
+    <title>Castillo de Molina - Sauvignon Blanc Reserva</title>
+    <s:type>White Wine</s:type>
+    <s:vendor>Castillo de Molina by Viña San Pedro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0294/4958/4715/products/Castillo-de-Molina-Sauvignon-Blanc-reserva.png?v=1591848512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castillo de Molina by Viña San Pedro<br>
+        <strong>Type: </strong>White Wine<br>
+        <strong>Price: </strong>
+            690000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<table width="100%">
+<tbody>
+<tr>
+<td width="98">
+<p> <strong>Varietal</strong></p>
+</td>
+<td width="173">
+<p>Sauvignon Blanc</p>
+</td>
+<td width="112">
+<p><strong>Size</strong></p>
+</td>
+<td width="142">
+<p>750 ml</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Region</strong></p>
+</td>
+<td width="173">
+<p>Casablanca Valley</p>
+</td>
+<td width="112">
+<p><strong>Vintage(s)</strong></p>
+</td>
+<td width="142"></td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Country</strong></p>
+</td>
+<td width="173">
+<p>Chile</p>
+</td>
+<td width="112">
+<p><strong>Alcohol Volume</strong></p>
+</td>
+<td width="142">
+<p>13.6%</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Brand Name</strong></p>
+</td>
+<td width="173">
+<p>Castillo de Molina<br></p>
+</td>
+<td width="112">
+<p><strong>Food Paring</strong></p>
+</td>
+<td width="142">
+<p>Fish, shellfish<br></p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Closure</strong></p>
+</td>
+<td width="173">
+<p>Screw Cap</p>
+</td>
+<td width="112">
+<p><strong>Wine Style</strong></p>
+</td>
+<td width="142">
+<p>Dry</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p><strong>Wine Body</strong></p>
+</td>
+<td width="173">
+<p>Medium Bodied</p>
+</td>
+<td width="112"></td>
+<td width="142"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><span>Castillo de Molina was conceived as Viña San Pedro's first Premium Reserve range, especially dedicated to quality and innovation. A humble tribute to the Castillo de Molina reserva that was made by the Correa Albano brothers over 100 years ago, on the soil of Molina in Chile.</span></p>
+<p><span>The Sauvignon Blanc Reserva features intense aromatic notes of tropical fruits, passion fruit, melon, and citrus fruits. The palate is f</span>resh, fruity, and well-balanced, with good acidity and a long finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chile</s:tag>
+    <s:variant>
+      <id>https://goviva.vn/products/4590454636619</id>
+      <title>Default Title</title>
+      <s:price currency="VND">690000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
