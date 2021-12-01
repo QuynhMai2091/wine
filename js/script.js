@@ -169,3 +169,5 @@ class Slideshow {
 }
 
 const slideshow = new Slideshow(document.querySelector('.slideshow'));
+var chance = document.querySelectorAll('.grid-view-item-inner')
+console.log(chance)

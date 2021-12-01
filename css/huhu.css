@@ -9,3 +9,6 @@
     height: 18rem;
     width: 80rem;
 }
+.point{
+  cursor: pointer;
+}
